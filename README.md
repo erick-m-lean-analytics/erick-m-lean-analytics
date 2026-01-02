@@ -59,5 +59,5 @@ I enjoy bridging **operational reality with analytical and technical solutions**
 ---
 ### **Automation Projects**
 Project 1: Extracting and cleaning of client performance report from Customer Management system
-Tech: Python, Pandas
-Repo: Coming soon
+- Tech: Python, Pandas
+- Repo: Coming soon
