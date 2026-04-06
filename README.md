@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Erick Mortera  
+# Hi, I'm Erick Mortera  
 ### **Data-Driven Optimisation Engineer | Industrial Engineer | Lean & Toyota Production System Expert**
 
 I’m a Certified Lean Manufacturing Trainer with deep experience improving processes across **manufacturing, logistics, R&D, distribution, and service operations**.  
@@ -8,7 +8,7 @@ I use **SQL, Python, and OR-Tools** to uncover inefficiencies, optimise supply c
 
 ---
 
-## 🚀 What I Do
+## What I Do
 I specialise in turning operational challenges into **data‑driven optimisation solutions**, including:
 
 - Routing optimisation & scheduling  
@@ -22,7 +22,7 @@ My goal is simple: **use data + Lean thinking to build operations that scale int
 ---
 
 
-## 🧠 What I Bring From Lean & Industrial Engineering  
+## What I Bring From Lean & Industrial Engineering  
 - Systems thinking & structured problem‑solving    
 - Root‑cause analysis and structured problem‑solving  
 - Designing efficient workflows and value streams  
@@ -55,7 +55,7 @@ My goal is simple: **use data + Lean thinking to build operations that scale int
 - Machine learning fundamentals  
 
 ---
-## 🔍 Featured Projects
+## Featured Projects
 Here are some of the projects I’ve worked on:
 
 - **Digitising JIT Routing & Resource Planning**  (in-progress)
@@ -81,7 +81,7 @@ Additionally, produced a targeted list of high‑leverage smash repairers for a 
 **https://github.com/erick-m-lean-analytics/Operations-Analytics-Portfolio**
 
 ---
-## 🎯 What Drives Me  
+## What Drives Me  
 I enjoy bridging **operational reality with analytical and technical solutions**. Whether improving a production line or building an AI model, I focus on clarity, practicality, and measurable impact.
 
 
