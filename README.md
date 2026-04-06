@@ -59,16 +59,17 @@ My goal is simple: **use data + Lean thinking to build operations that scale int
 Here are some of the projects I’ve worked on:
 
 - **Digitising JIT Routing & Resource Planning**  (in-progress)
+  
    Developing a fully digitised Just‑In‑Time planning workflow using Python, NetworkX, and OR‑Tools to automate in‑plant vehicle routing and resource allocation.
 
-   The tool replicates and automates the standard engineering steps used to design a JIT parts‑delivery system in automotive manufacturing—ensuring components  arrive exactly when needed while respecting real‑world physical constraints such as one‑way aisles, congestion points, and limited lineside storage.
+   The tool replicates and automates the standard engineering steps used to design a JIT parts‑delivery system in automotive manufacturing ensuring components  arrive exactly when needed while respecting real‑world physical constraints such as one‑way aisles, congestion points, and limited lineside storage.
 
    Although built for high‑volume automotive operations, the optimisation logic is industry‑agnostic and adaptable to any environment requiring synchronised  logistics, including mining supply chains, large‑scale warehousing, and regional land‑transport networks.
 
    The objective is to replace manual planning with a scalable optimisation engine that improves route efficiency, reduces planning time, and supports real‑time operational decision‑making.
 
 - **SaaS Supplier Pricing Optimisation**  
-    Identify opportunities for pricing adjustments and tier reclassification using SQL + Python to increase margin accuracy and reduce manual overrides.
+    Identify opportunities for pricing adjustments and tier re-classification using SQL + Python to increase margin accuracy and reduce manual overrides.
 
 - **Insurer Markup Ruleset Optimisation**  
    Analysed insurer‑specific pricing rules to identify inconsistencies, gaps, and inefficiencies in the existing markup logic.
