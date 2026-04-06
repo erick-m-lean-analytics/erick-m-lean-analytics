@@ -4,7 +4,7 @@
 I’m a Certified Lean Manufacturing Trainer with deep experience improving processes across **manufacturing, logistics, R&D, distribution, and service operations**.  
 My work blends **Lean/TPS principles + data analytics** to design smarter, faster, and more adaptive operational systems.
 
-I use **SQL, Python, and OR-Tools** to uncover inefficiencies, optimise supply chains, and deliver measurable improvements in productivity, cost, throughput, and service performance across both manufacturing and SaaS environments.
+I use **SQL, Python, and OR-Tools** to uncover inefficiencies, optimise supply chains, and deliver measurable improvements in productivity, cost, throughput, and service performance across both manufacturing and service environments.
 
 ---
 
