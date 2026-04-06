@@ -48,7 +48,7 @@ My goal is simple: **use data + Lean thinking to build operations that scale int
 - Capacity planning & scheduling  
 
 ### **Data & Analytics**
-- Python (Pandas, NumPy, Matplotlib)  
+- Python (Pandas, NumPy, Matplotlib, NetworkX)  
 - SQL (analysis, reporting, optimisation)  
 - OR-Tools (routing, scheduling, optimisation)  
 - Data automation & workflow optimisation  
