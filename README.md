@@ -55,31 +55,22 @@ My goal is simple: **use data + Lean thinking to build operations that scale int
 - Machine learning fundamentals  
 
 ---
-## Featured Projects
-Here are some of the projects I’ve worked on:
+### 📂 Featured Projects
 
-- **Digitising JIT Routing & Resource Planning**  (in-progress)
-  
-   Developing a fully digitised Just‑In‑Time planning workflow using Python, NetworkX, and OR‑Tools to automate in‑plant vehicle routing and resource allocation.
+#### ✈️ Aviation Flight Delay Cost Analysis & Lean Diagnostic
+**Tech Stack:** `Python` · `PostgreSQL` · `Pandas` · `NetworkX` · `EUROCONTROL Cost Framework` · `BITRE/ACCC Public Data`  
+**Overview:** An independent lean-thinking diagnostic of Australian domestic aviation disruptions (2023–2025). Mapped 21 cost elements across four waste categories (Waiting, Rework, Unconverted Capacity, Overprocessing) using public operational and financial data. Built a relational cost model and visualisation suite to quantify ~AUD $2.99B in annual carrier and passenger economic loss. Demonstrates rigorous data engineering, cost modelling, and lean mapping applicable to complex service networks, maintenance operations, and logistics optimisation.  
+🔗 [View Project](https://github.com/erick-m-lean-analytics/Transport-Operations-Analysis/tree/main/01-aviation-flight-delay-cost)
 
-   The tool replicates and automates the standard engineering steps used to design a JIT parts‑delivery system in automotive manufacturing ensuring components  arrive exactly when needed while respecting real‑world physical constraints such as one‑way aisles, congestion points, and limited lineside storage.
+#### 🏗️ Liebherr Australia: Regional Hub Network Optimisation
+**Tech Stack:** `Python` · `OSRM Routing API` · `NetworkX` · `Dijkstra’s Algorithm` · `Folium` · `Matplotlib`  
+**Overview:** Independent logistics cost model for Liebherr’s mining equipment parts distribution and field service network. Used real-road routing, shortest-path optimisation, and industry benchmarks to model a $9.35M annual baseline. Identified strategic regional hub placements (Pilbara + Olympic Dam) to reduce SLA breach rates from 15% to 3%, projecting $5.66M in annual savings. Includes sensitivity analysis, lean waste classification, and executive-ready visualisations. Directly applicable to mining OEM service networks, warehousing, distribution, and supply chain optimisation.  
+🔗 [View Project](https://github.com/erick-m-lean-analytics/Transport-Operations-Analysis/tree/main/05-liebherr-distribution-network-optimisation)
 
-   Although built for high‑volume automotive operations, the optimisation logic is industry‑agnostic and adaptable to any environment requiring synchronised  logistics, including mining supply chains, large‑scale warehousing, and regional land‑transport networks.
 
-   The objective is to replace manual planning with a scalable optimisation engine that improves route efficiency, reduces planning time, and supports real‑time operational decision‑making.
-
-- **SaaS Supplier Pricing Optimisation**  
-    Identify opportunities for pricing adjustments and tier re-classification using SQL + Python to increase margin accuracy and reduce manual overrides.
-
-- **Insurer Markup Ruleset Optimisation**  
-   Analysed insurer‑specific pricing rules to identify inconsistencies, gaps, and inefficiencies in the existing markup logic.
-
-   Developed and proposed Top 5 insurers with recommended baseline rulesets based on reach, quote volume, and operational impact—providing a more consistent and scalable pricing foundation.
-
-   Additionally, produced a targeted list of high‑leverage smash repairers for a pilot rollout, enabling the business to validate the new baseline ruleset and measure improvements in pricing accuracy, processing speed, and overall quoting performance.
 
 👉 Explore the full portfolio here:  
-**https://github.com/erick-m-lean-analytics/Operations-Analytics-Portfolio**
+**https://github.com/erick-m-lean-analytics/Transport-Operations-Analysis**
 
 ---
 ## What Drives Me  
